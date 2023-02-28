@@ -9,3 +9,7 @@ var heightInInches = 63
 var tired = true
 var warm = true
 var hatesCoffee = false
+
+firstName = "Meagan"
+middleName = "Martha"
+lastName = "Roepcke"
